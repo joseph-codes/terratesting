@@ -1,0 +1,9 @@
+.terraform/modules
+.terraform/plugins
+.terraform/
+.terraform/modules/modules.json
+.terraform/plugins/registry.terraform.io
+.terraform/plugins/selections.json
+.terraform/plugins/registry.terraform.io/hashicorp
+.terraform/plugins/registry.terraform.io/hashicorp/aws/3.8.0/
+.terraform/plugins/registry.terraform.io/hashicorp/aws/3.8.0/linux_amd64/terraform-provider-aws_v3.8.0_x5
